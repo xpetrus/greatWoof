@@ -1,4 +1,4 @@
-# greatWoof
+# Great Woof Lodge
 
 ## About
 
